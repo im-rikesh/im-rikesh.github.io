@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - Present: Teaching Assistant
+  * New Jersey Institute of Technology
+  * Duties include: Teaching and Grading
+  * Courses: Cloud Computing (CS 6), Intensive Programming in Linux(), Computer Programming Language (CS 635), Intro to Computer Science in C++ (CS 115), (CS 116), Python for Bio Informatics (BNFO 115)
 
 * 2019 - 2023: ETL and BI Developer
   * Siddhartha Bank Limited
@@ -30,25 +30,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C, C++
+* Cloud Computing
+* Serverless Computing
+* Databases
+* Python
+* AI/ML
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
