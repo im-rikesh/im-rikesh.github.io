@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, New Jersey Institute of Technology, 2027 (expected)
+* B.E. in Electronics and Communication Engineering, Tribhuvan University, 2018
 
 Work experience
 ======
@@ -22,15 +21,12 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2023: ETL and BI Developer
+  * Siddhartha Bank Limited
+  * Duties included: ETL, Data Warehousing, DBA, Third Part Applications Support
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - 2019: Web Developer
+  * Softmine Technologies
   
 Skills
 ======
